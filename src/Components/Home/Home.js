@@ -1,12 +1,12 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
-import Service from '../Service/Service';
+import HomePageServices from '../HomePageServices/HomePageServices';
 
 const Home = () => {
     return (
         <>
             <Banner></Banner>
-            <Service></Service>
+            <HomePageServices></HomePageServices>
         </>
     );
 };

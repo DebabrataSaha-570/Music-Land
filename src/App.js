@@ -13,7 +13,7 @@ import About from './Components/About/About';
 import Banner from './Components/Banner/Banner';
 import Footer from './Components/Footer/Footer';
 import ContactUs from './Components/ContactUs/ContactUs';
-import Services from './Components/Services/Services';
+import AllServices from './Components/AllServices/AllServices';
 function App() {
   return (
     <Router>
@@ -36,9 +36,10 @@ function App() {
         <Route path="/contact">
           <ContactUs></ContactUs>
         </Route>
-        <Route path="/services">
-          <Services></Services>
+        <Route path="/allservices">
+          <AllServices></AllServices>
         </Route>
+
 
         <Route path="*">
           <NotFound></NotFound>
