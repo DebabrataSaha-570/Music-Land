@@ -1,0 +1,20 @@
+.ml-icons-social i{
+    margin-right: 1rem;
+    color: gray;
+    cursor: pointer;
+}
+small{
+    color: white;
+}
+footer{
+    background-color: #0c4b65;
+    height: 25rem;
+}
+h3{
+    color: goldenrod;
+    font-weight: 800;
+
+}
+.ml-icons-contact{
+    color: goldenrod;
+}
