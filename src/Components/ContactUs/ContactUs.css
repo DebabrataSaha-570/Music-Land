@@ -1,0 +1,21 @@
+.ml-from{
+    /* background-color: lightyellow; */
+    
+   background-color: rgb(247, 241, 228);
+}
+.ml-contact-social i{
+    margin-right: 0.7rem;
+    cursor: pointer;
+}
+.ml-social-facebook{
+    color: #4267B2;
+}
+.ml-social-twitter{
+    color: #00acee;
+}
+.ml-social-youtube{
+    color: 	#FF0000;
+}
+.ml-social-instagram{
+    color: #8a3ab9;
+}

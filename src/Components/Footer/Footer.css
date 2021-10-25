@@ -1,16 +1,16 @@
 .ml-icons-social i{
     margin-right: 1rem;
-    color: gray;
+    color: rgb(235, 208, 142);
     cursor: pointer;
 }
-small{
+.ml-small{
     color: white;
 }
 footer{
     background-color: #0c4b65;
     height: 25rem;
 }
-h3{
+.ml-heading{
     color: goldenrod;
     font-weight: 800;
 
