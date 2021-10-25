@@ -1,0 +1,32 @@
+[
+    {
+        "img": "https://i.ibb.co/Hn4HbGv/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+        "name": "Sam Klarke",
+        "profession": "Guitar and Piano Teacher"
+    },
+    {
+        "img": "https://i.ibb.co/428tX4k/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg",
+        "name": "Kate McMillan",
+        "profession": "Piano Teacher"
+    },
+    {
+        "img": "https://i.ibb.co/6bJhHLT/freestocks-8a95-EVm0ov-Q-unsplash.jpg",
+        "name": "John Thompson ",
+        "profession": "violin and piano teacher"
+    },
+    {
+        "img": "https://i.ibb.co/dGSf1b2/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "name": "Marry williams",
+        "profession": "Vocal and flute Teacher"
+    },
+    {
+        "img": "https://i.ibb.co/9Tvs33W/jeffrey-keenan-p-Uhxo-Sap-PFA-unsplash.jpg",
+        "name": "Peter Smith",
+        "profession": "Drum Teacher"
+    },
+    {
+        "img": "https://i.ibb.co/bsZShvF/ayo-ogunseinde-sib-Vw-ORYqs0-unsplash.jpg",
+        "name": "Nathale Porter",
+        "profession": "winds Teacher"
+    }
+]
