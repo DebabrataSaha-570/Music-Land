@@ -8,22 +8,22 @@ const ContactUs = () => {
                 <div className="container my-5">
                     <div className="row">
                         <div className="col-md-6">
-                            <h3>Opening Hours </h3>
-                            <p className="my-3">
+                            <h3 className="ml-contact-heading mb-4">Opening Hours </h3>
+                            <small className=" ml-contact-para">
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit vel impedit quo, blanditiis cumque quam modi alias debitis voluptatem ratione.
-                            </p>
+                            </small>
                             <div className="my-5">
-                                <p>
-                                    <i class="fas fa-map-marker-alt ml-icons-contact" ></i>
+                                <p className="ml-contact-para">
+                                    <span className="me-3"><i class="fas fa-map-marker-alt ml-icons-contact" ></i></span>
                                     221B Bekar Rasta, Noakhali, Bangladesh
                                 </p>
                                 <p>
-                                    <i class="fas fa-map-marker-alt ml-icons-contact" ></i>
-                                    221B Bekar Rasta, Noakhali, Bangladesh
+                                    <span className="me-3"> <i class="fas fa-phone-alt ml-icons-contact"></i></span>
+                                    0173829834984
                                 </p>
                                 <p>
-                                    <i class="fas fa-map-marker-alt ml-icons-contact" ></i>
-                                    221B Bekar Rasta, Noakhali, Bangladesh
+                                    <span className="me-3"> <i class="fas fa-envelope ml-icons-contact"></i></span>
+                                    admin@gmail.com
                                 </p>
                             </div>
                             <div className="ml-contact-social">
