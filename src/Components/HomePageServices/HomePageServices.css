@@ -19,3 +19,12 @@
     border-radius: .5rem;
     border: none;
 }
+.color-one{
+    color: #c25934;
+}
+.color-two{
+    color: #0c4b65;
+}
+.ml-service-heading{
+    font-weight: 700;
+}

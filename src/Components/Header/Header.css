@@ -1,3 +1,12 @@
-.music-land-anchor{
+
+
+.ml-navbar{
+    background-color: #0c4b65;
+}
+.ml-navbar a{
+    color: goldenrod;
     text-decoration: none;
+}
+.ml-nav-brand{
+    font-weight: 700;
 }

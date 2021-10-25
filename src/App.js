@@ -14,6 +14,7 @@ import Banner from './Components/Banner/Banner';
 import Footer from './Components/Footer/Footer';
 import ContactUs from './Components/ContactUs/ContactUs';
 import AllServices from './Components/AllServices/AllServices';
+import Blog from './Components/Blog/Blog';
 function App() {
   return (
     <Router>
@@ -40,6 +41,9 @@ function App() {
           <AllServices></AllServices>
         </Route>
 
+        <Route path="/blog">
+          <Blog></Blog>
+        </Route>
 
         <Route path="*">
           <NotFound></NotFound>

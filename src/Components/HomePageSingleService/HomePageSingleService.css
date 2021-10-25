@@ -1,0 +1,21 @@
+.ml-service-span-one{
+    color: #c25934;
+}
+.ml-service-card h5{
+    color: #0c4b65;
+    font-weight: 700;
+}
+.ml-service-card{
+    color: #0c4b65;
+}
+.ml-service-card h6{
+    font-weight: 700;
+
+}
+.ml-service-card p{
+    font-size: 0.8rem;
+}
+.ml-service-card i{
+    color: #c25934;
+    margin-right: 5px;
+}

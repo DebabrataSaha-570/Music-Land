@@ -20,9 +20,9 @@ const HomePageServices = () => {
             <section className="container my-5">
 
                 <div className="text-center w-50 mx-auto">
-                    <h4>Our Services {services.length}</h4>
-                    <h2>Most popular classes</h2>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis sint illum nostrum magni nulla laborum assumenda vitae perferendis recusandae labore.</p>
+                    <h4 className="ml-service-heading color-one">Our Services </h4>
+                    <h2 className="color-two ml-service-heading">Most popular classes</h2>
+                    <p className="color-two">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis sint illum nostrum magni nulla laborum assumenda vitae perferendis recusandae labore.</p>
                 </div>
 
                 {/* card  */}

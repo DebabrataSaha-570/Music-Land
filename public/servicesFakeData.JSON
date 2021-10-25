@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "services": "Guitar classes",
+        "services": "Guitar",
         "img": "https://i.ibb.co/ZNbPvqS/ahmed-rizkhaan-0-Ky-GJK2-Gl-JI-unsplash.jpg",
         "duration": "3 months",
         "price": "300"
     },
     {
         "id": 2,
-        "services": "Violin classes",
+        "services": "Violin ",
         "img": "https://i.ibb.co/jyn3hkm/manuel-nageli-7-Cc-PLtyw-Rso-unsplash.jpg",
         "duration": "4 months",
         "price": "400"
     },
     {
         "id": 3,
-        "services": "Piano classes",
+        "services": "Piano",
         "img": "https://i.ibb.co/FwVrDyY/image-4.jpg",
         "duration": "3 months",
         "price": "300"
     },
     {
         "id": 4,
-        "services": "Vocal classes",
+        "services": "Vocal ",
         "img": "https://i.ibb.co/PcqRMn1/kate-oseen-XQKUIPj-Pl-s-unsplash.jpg",
         "duration": "6 months",
         "price": "400"
     },
     {
         "id": 5,
-        "services": "Drum classes",
+        "services": "Drum ",
         "img": "https://i.ibb.co/C0ffhXv/pexels-anthony-shkraba-production-8412428.jpg",
         "duration": "4 months",
         "price": "350"
     },
     {
         "id": 6,
-        "services": "Winds classes",
+        "services": "Winds",
         "img": "https://i.ibb.co/yNy7tCs/moises-alex-qes-KWz-LFw-Lo-unsplash.jpg",
         "duration": "5 months",
         "price": "370"
     },
     {
         "id": 7,
-        "services": "Flute classes",
+        "services": "Flute",
         "img": "https://i.ibb.co/HBybGNk/pexels-yan-krukov-8192090.jpg",
         "duration": "4",
         "price": "380"
