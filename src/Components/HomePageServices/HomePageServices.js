@@ -2,6 +2,7 @@ import React from 'react';
 import './HomePageServices.css'
 import { useState, useEffect } from 'react'
 import HomePageSingleService from '../HomePageSingleService/HomePageSingleService';
+import './HomePageServices.css'
 import { useHistory } from 'react-router';
 const HomePageServices = () => {
     const [services, setServices] = useState([])
@@ -20,9 +21,9 @@ const HomePageServices = () => {
             <section className="container my-5">
 
                 <div className="text-center w-50 mx-auto">
-                    <h4 className="ml-service-heading color-one">Our Services </h4>
-                    <h2 className="color-two ml-service-heading">Most popular classes</h2>
-                    <p className="color-two">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis sint illum nostrum magni nulla laborum assumenda vitae perferendis recusandae labore.</p>
+                    <h4 className="ml-service-heading-first color-one ">Our Services </h4>
+                    <h2 className="color-two ml-service-heading-second">Most popular classes</h2>
+                    <p className="color-two ml-service-paragraph">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis sint illum nostrum magni nulla laborum assumenda vitae perferendis recusandae labore.</p>
                 </div>
 
                 {/* card  */}

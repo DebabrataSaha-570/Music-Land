@@ -11,6 +11,7 @@ const Banner = () => {
             <div class="carousel-inner h-25 d-inline-block">
                 <div class="carousel-item active" data-bs-interval="10000">
                     <img src={img2} class="d-block w-100" alt="..." />
+                    {/* <img src='https://i.ibb.co/7204Qv7/image-2.jpg' class="d-block w-100" alt="..." /> */}
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
                     <img src={img1} class="d-block w-100" alt="..." />

@@ -7,7 +7,7 @@ const AboutThirdSectionImages = (props) => {
         <div class="col my-5">
             <div class="card text-center shadow-lg">
                 <img src={img} class="card-img-top" alt="..." />
-                <div class="card-body">
+                <div class="card-body ml-about-thridSection-images">
                     <h5 class="card-title">{name}</h5>
                     <p class="card-text">{profession}</p>
                 </div>

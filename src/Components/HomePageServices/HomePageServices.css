@@ -1,4 +1,4 @@
-.music-btn-one{
+.music-btn-one {
     background-color: #c25934;
     color: white;
     height: 2.7rem;
@@ -7,11 +7,13 @@
     border-radius: .5rem;
     font-weight: 700;
 }
-.music-btn-one:hover{
-    background-color:  #0c4b65;
+
+.music-btn-one:hover {
+    background-color: #0c4b65;
     transition: all .3s ease;
 }
-.music-btn-two{
+
+.music-btn-two {
     background-color: #efcf4f;
     color: white;
     height: 2.7rem;
@@ -19,12 +21,29 @@
     border-radius: .5rem;
     border: none;
 }
-.color-one{
+
+.color-one {
     color: #c25934;
 }
-.color-two{
+
+.color-two {
     color: #0c4b65;
 }
-.ml-service-heading{
+
+.ml-service-heading-first {
     font-weight: 700;
+}
+
+.ml-service-heading-second {
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 688px) {
+    .ml-service-heading-second {
+        font-size: 20px;
+    }
+
+    .ml-service-paragraph {
+        font-size: 13px;
+    }
 }

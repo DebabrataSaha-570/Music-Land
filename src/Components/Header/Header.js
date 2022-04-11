@@ -9,8 +9,8 @@ const Header = () => {
     }
 
     return (
-        <nav class="navbar sticky-top  navbar-expand-lg  ml-navbar">
-            <div class="container">
+        <nav class="navbar sticky-top  navbar-expand-lg navbar-dark ml-navbar ">
+            <div class="container ">
                 <NavLink to="/home" activeStyle={activeStyle} >
                     <a class="navbar-brand ml-nav-brand" >MUSIC-LAND</a>
 

@@ -1,3 +1,39 @@
-.about-second-section{
+.about-second-section {
     background-color: lightgray;
+}
+
+.ml-about-second-section {
+    color: #0c4b65;
+    /* color: #c25934; */
+}
+
+.ml-about-second-section h1 {
+    color: #c25934;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 688px) {
+    .ml-about-us-second-image {
+        width: 60%;
+        margin-bottom: 2rem;
+
+    }
+
+    .ml-about-us-second-section {
+        text-align: center;
+
+    }
+
+    .ml-about-us-second-section h1 {
+        font-size: 25px;
+
+    }
+
+    .ml-about-second-section h3 {
+        font-size: 20px;
+    }
+
+    .ml-about-second-section p {
+        font-size: 13px;
+    }
 }

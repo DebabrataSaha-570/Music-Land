@@ -1,12 +1,12 @@
-
-
-.ml-navbar{
+.ml-navbar {
     background-color: #0c4b65;
 }
-.ml-navbar a{
-    color: goldenrod;
+
+.ml-navbar a {
+    color: goldenrod !important;
     text-decoration: none;
 }
-.ml-nav-brand{
+
+.ml-nav-brand {
     font-weight: 700;
 }

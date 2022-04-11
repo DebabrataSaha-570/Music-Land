@@ -1,0 +1,23 @@
+.ml-about-first-section {
+    /* color: #c25934; */
+    color: #0c4b65;
+}
+
+.ml-about-first-section h1 {
+    color: #c25934;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 688px) {
+    .ml-about-first-section h1 {
+        font-size: 23px;
+    }
+
+    .ml-about-first-section h3 {
+        font-size: 17px;
+    }
+
+    .ml-about-first-section p {
+        font-size: 12px;
+    }
+}

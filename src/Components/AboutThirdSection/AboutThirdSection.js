@@ -11,7 +11,7 @@ const AboutThirdSection = () => {
     console.log(teachers)
     return (
         <>
-            <section className="container">
+            <section className="container ml-about-third-section">
                 <h2 className="text-center">Who we are</h2>
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     {

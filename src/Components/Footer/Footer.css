@@ -1,20 +1,30 @@
-.ml-icons-social i{
+.ml-icons-social i {
     margin-right: 1rem;
     color: rgb(235, 208, 142);
     cursor: pointer;
 }
-.ml-small{
+
+.ml-small {
     color: white;
 }
-footer{
+
+footer {
     background-color: #0c4b65;
     height: 25rem;
 }
-.ml-heading{
+
+.ml-heading {
     color: goldenrod;
     font-weight: 800;
 
 }
-.ml-icons-contact{
+
+.ml-icons-contact {
     color: goldenrod;
+}
+
+@media only screen and (max-width: 688px) {
+    footer {
+        height: 37rem;
+    }
 }

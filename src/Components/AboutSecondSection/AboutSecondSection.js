@@ -7,14 +7,14 @@ import './AboutSecondSection.css'
 const AboutSecondSection = () => {
     return (
         <>
-            <section className="about-second-section">
+            <section className="about-second-section ml-about-second-section">
                 <section className="container " >
                     <article className="my-5 pt-5">
-                        <div className="row">
-                            <div className="col-md-4">
-                                <img className='img-fluid' src={concert1} alt="" />
+                        <div className="row ml-about-us-second-section">
+                            <div className="col-md-4 ">
+                                <img className='img-fluid ml-about-us-second-image' src={concert1} alt="" />
                             </div>
-                            <div className="col-md-8">
+                            <div className="col-md-8 ">
                                 <div className="w-75 mx-auto">
                                     <h1>December 1995</h1>
 
@@ -27,9 +27,9 @@ const AboutSecondSection = () => {
                     </article>
 
                     <article className="mb-5 pt-5">
-                        <div className="row">
+                        <div className="row ml-about-us-second-section">
                             <div className="col-md-4">
-                                <img className='img-fluid' src={concert2} alt="" />
+                                <img className='img-fluid ml-about-us-second-image' src={concert2} alt="" />
                             </div>
                             <div className="col-md-8">
                                 <div className="w-75 mx-auto">
@@ -44,9 +44,9 @@ const AboutSecondSection = () => {
 
                     </article>
                     <article className="mb-5 py-5">
-                        <div className="row">
+                        <div className="row ml-about-us-second-section">
                             <div className="col-md-4">
-                                <img className='img-fluid' src={concert3} alt="" />
+                                <img className='img-fluid ml-about-us-second-image' src={concert3} alt="" />
                             </div>
                             <div className="col-md-8">
                                 <div className="w-75 mx-auto">
